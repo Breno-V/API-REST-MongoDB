@@ -2,6 +2,10 @@
 
 API RESTful (Node.js + Express + MongoDB/Mongoose) para catalogo de produtos de e-commerce. Colecao unica com esquema dinamico (`especificacoes`).
 
+## Demonstração
+
+https://github.com/user-attachments/assets/76040ad1-3a89-4f64-bcd4-444fdd7cfc80
+
 ## Rodar
 
 ```bash
